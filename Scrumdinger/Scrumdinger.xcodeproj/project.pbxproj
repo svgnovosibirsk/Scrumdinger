@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7C0BA6C62B217B6800A4ED91 /* NewScrumSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C0BA6C52B217B6800A4ED91 /* NewScrumSheet.swift */; };
 		7C8F3EC12B1C5F4500869652 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C8F3EC02B1C5F4500869652 /* DetailView.swift */; };
 		7C8F3EC32B1D969C00869652 /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C8F3EC22B1D969C00869652 /* DetailEditView.swift */; };
 		7C8F3EC52B1EF6C400869652 /* ThemeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C8F3EC42B1EF6C300869652 /* ThemeView.swift */; };
@@ -30,6 +31,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7C0BA6C52B217B6800A4ED91 /* NewScrumSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewScrumSheet.swift; sourceTree = "<group>"; };
 		7C8F3EC02B1C5F4500869652 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		7C8F3EC22B1D969C00869652 /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 		7C8F3EC42B1EF6C300869652 /* ThemeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeView.swift; sourceTree = "<group>"; };
@@ -138,6 +140,7 @@
 				7CC6CE642B09C89B008382AE /* CardView.swift */,
 				7CC6CEA82B0B1665008382AE /* ScrumsView.swift */,
 				7CF7369E2B203E8E00DA50A8 /* ScrumProgressViewStyle.swift */,
+				7C0BA6C52B217B6800A4ED91 /* NewScrumSheet.swift */,
 				7C8F3EC02B1C5F4500869652 /* DetailView.swift */,
 				7C8F3EC22B1D969C00869652 /* DetailEditView.swift */,
 				7C8F3EC42B1EF6C300869652 /* ThemeView.swift */,
@@ -232,6 +235,7 @@
 				7CF736AA2B20423A00DA50A8 /* MeetingHeaderView.swift in Sources */,
 				7CC6CE542B087980008382AE /* MeetingView.swift in Sources */,
 				7CC6CE522B087980008382AE /* ScrumdingerApp.swift in Sources */,
+				7C0BA6C62B217B6800A4ED91 /* NewScrumSheet.swift in Sources */,
 				7C8F3EC52B1EF6C400869652 /* ThemeView.swift in Sources */,
 				7CC6CE652B09C89B008382AE /* CardView.swift in Sources */,
 				7CF7369D2B203E2B00DA50A8 /* ScrumTimer.swift in Sources */,
